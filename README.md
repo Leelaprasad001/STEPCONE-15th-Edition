@@ -5,9 +5,6 @@ Welcome to STEPCONE - the National Level Student Technical Paper & Project Conte
 ## About STEPCONE 2023
 After experiencing tremendous success as one of India's premier technical and cultural fests, GMRIT proudly announces the 15th edition of STEPCONE in 2023. This iconic technical fest has consistently been a highly anticipated event for engineering students across all disciplines.
 
-With meticulous planning and boundless enthusiasm, the latest edition of STEPCONE aims to ignite the imagination of young engineering minds. We facilitate discussions on theories, problems, and their solutions in the current engineering landscape. This GMRIT flagship event bridges the gap between theory and practice, empowering students to make a tangible societal impact through their innovative projects.
-
-Our event themes - ATMA NIRBHAR BHARAT, MAKE IN INDIA, RE-SKILLING & UP-SKILLING, INNOVATION & START-UPS - align with the nation's goals, and we intend to foster meaningful connections between the youth and impactful empowerment talks. Our principles are in line with the AZADI KA AMRIT MAHOTSAV initiative.
 
 ## What to Expect
 - Highly advanced technical workshops
