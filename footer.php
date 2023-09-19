@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html class="no-js" lang="zxx">
 <head>
@@ -6,76 +7,51 @@
     <title>Stepcone 2023</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-   
-
-	<!-- CSS here -->
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-	<link rel="stylesheet" href="assets/css/slicknav.css">
-    <!-- <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/gijgo.css"> -->
-	<link rel="stylesheet" href="assets/css/animate.min.css">
-	<!-- <link rel="stylesheet" href="assets/css/magnific-popup.css"> -->
-	<link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-	<link rel="stylesheet" href="assets/css/themify-icons.css">
-	<link rel="stylesheet" href="assets/css/slick.css">
-	<!-- <link rel="stylesheet" href="assets/css/nice-select.css"> -->
-	<link rel="stylesheet" href="assets/css/style.css">
-</head>
+    <link rel="shortcut icon" href="./images/favicon_transp.png" type="image/x-icon">
+    </head>
 <body>
-    <footer>
+   
+<footer>
         <!-- Footer Start-->
         <div class="footer-area footer-padding">
             <div class="container">
                 <div class="row d-flex justify-content-between">
-                    <!-- <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                       <div class="single-footer-caption mb-50">
-                         <div class="single-footer-caption mb-30">
-                             <div class="footer-tittle">
-                                 <h4>About Us</h4>
-                                 <div class="footer-pera">
-                                     <p>Heaven frucvitful doesn't cover lesser dvsays appear creeping seasons so behold.</p>
-                                </div>
-                             </div>
-                         </div>
-                       </div>
-                    </div> -->
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>Important Link</h4>
+                                <h4>Important Links</h4>
                                 <ul>
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">Events</a></li>
-                                    <li><a href="#">Explore GMR</a></li>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="contact.php">Contact Us</a></li>
+									<li><a href="accommodation.php">Accommodation</a></li>
+                                    <li><a href="https://gmrit.edu.in/">Explore GMR</a></li>
+                                    <li><a href="sitemap.php">Sitemap</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
                                 <h4>Address Info</h4>
                                 <ul>
                                     <li>
-                                        <p>Address : GMR Nagar, Razam, Andhra Pradesh 532127</p>
+                                        <p>Address : GMR Nagar, Rajam <br> Vizianagaram, Andhra Pradesh 532127</p>
                                     </li>
-                                    <li><a href="#">Phone : 99999 99999</a></li>
                                     <li><a href="#">Email : stepcone@gmrit.edu.in</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-5">
+                    <!-- <div class="col-xl-3 col-lg-3 col-md-6 col-sm-5">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
                                 <h4>Feedback</h4>
                                 <div class="footer-pera footer-pera2">
-                                 <p>Heaven fruitful doesn't over lesser in days. Appear creeping.</p>
+                                 <p>Your feedback is precious to us.</p>
                              </div>
-                             <!-- Form -->
-                             <div class="footer-form" >
+                             Form -->
+                             <!-- <div class="footer-form" >
                                  <div id="mc_embed_signup">
                                      <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
                                      method="get" class="subscribe_form relative mail_part">
@@ -92,68 +68,57 @@
                              </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
+                    </div> --> 
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>contact Link</h4>
+                                <h4>contact Links</h4>
                                 <ul class="row media">
                                     <li><a href="https://www.facebook.com/stepcone2023" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="https://www.instagram.com/stepcone_2023_official/" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="https://twitter.com/Stepcone_2023" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="https://twitter.com/Stepcone_2023" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="https://www.instagram.com/stepcone_2023_official/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                                     <li><a href="https://www.linkedin.com/company/stepcone-2023/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul> 
                             </div>
                         </div>
                     </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
+                    <div class="single-footer-caption mb-50">
+                            <div class="footer-tittle">
+                                <h4>Route Map</h4>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4010.6929224241453!2d83.66036479054259!3d18.466096716939866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3c772724754cc9%3A0xcf876cd74c2b6b01!2sGMR%20Institute%20of%20Technology!5e0!3m2!1sen!2sin!4v1665809294194!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
+                        </div>  
+				    </div>
                 </div>
             </div>
+            
+            
+              <center>
+            <!-- hitwebcounter Code START -->
+            <center><h4> <p style="color:#fff;">WEBSITE VISIT</p> </h4>
+            </center>
+            
+               <a href="https://gmrit.edu.in/stepcone/">
+               <img src="https://hitwebcounter.com/counter/counter.php?page=8060746&style=0010&nbdigits=6&type=ip&initCount=354"    border="0" /></a>     </center>>                                
+                                        
+                                            
+                                              
+                                
         </div>
         <!-- Footer End-->
     </footer>
-    <!-- Scroll Up -->
-    <div id="back-top" >
-        <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
-    </div>
 
-    <!-- JS here -->
+    <script>
+        $(window).scroll(function(){
+            if($(window).width() > 995)
+            {
+                $('.navbar-nav').toggleClass('angle-bg',$(this).scrollTop()>50);
+            }
+        })
+       
+    </script>
 
-    <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
-    <!-- Jquery, Popper, Bootstrap -->
-    <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="./assets/js/popper.min.js"></script>
-    <script src="./assets/js/bootstrap.min.js"></script>
-    <!-- Jquery Mobile Menu -->
-    <script src="./assets/js/jquery.slicknav.min.js"></script>
 
-    <!-- Jquery Slick , Owl-Carousel Plugins -->
-    <script src="./assets/js/owl.carousel.min.js"></script>
-    <script src="./assets/js/slick.min.js"></script>
-    <!-- One Page, Animated-HeadLin -->
-    <script src="./assets/js/wow.min.js"></script>
-    <script src="./assets/js/animated.headline.js"></script>
-    <script src="./assets/js/jquery.magnific-popup.js"></script>
-
-    <!-- Date Picker -->
-    <script src="./assets/js/gijgo.min.js"></script>
-    <!-- Nice-select, sticky -->
-    <script src="./assets/js/jquery.nice-select.min.js"></script>
-    <script src="./assets/js/jquery.sticky.js"></script>
-    
-    <!-- counter , waypoint -->
-    <script src="./assets/js/jquery.counterup.min.js"></script>
-    <script src="./assets/js/waypoints.min.js"></script>
-    <script src="./assets/js/jquery.countdown.min.js"></script>
-    <!-- contact js -->
-    <script src="./assets/js/contact.js"></script>
-    <script src="./assets/js/jquery.form.js"></script>
-    <script src="./assets/js/jquery.validate.min.js"></script>
-    <script src="./assets/js/mail-script.js"></script>
-    <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
-    
-    <!-- Jquery Plugins, main Jquery -->	
-    <script src="./assets/js/plugins.js"></script>
-    <script src="./assets/js/main.js"></script>
-    
-    </body>
+</body>
 </html>

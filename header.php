@@ -1,3 +1,6 @@
+<?php
+// session_start();
+?>
 <!doctype html>
 <html class="no-js" lang="zxx">
 <head>
@@ -6,151 +9,141 @@
     <title>Stepcone 2023</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css"> 
-	/*------------------------------------------------------------------
-    HEADER
--------------------------------------------------------------------*/
-.top-navbar{
-	position: relative;
-	z-index: 10;
-}
+   <link rel="shortcut icon" href="./images/favicon_transp.png" type="image/x-icon">
 
-.top-navbar .navbar{
-	padding: 10px 0px;
-	position: fixed;
-	width: 100%;
-	transition: height .3s ease-out, background .3s ease-out, box-shadow .3s ease-out;
-	-webkit-transform: translate3d(0, 0, 0);
-	transform: translate3d(0, 0, 0);
-	-webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.4);
-	box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.4);
-	z-index: 100;
-}
-
-.top-navbar .navbar-light .navbar-nav .nav-link{
-	color: #010101;
-	font-size: 16px;
-	padding: 05px 20px;
-	border-radius: 4px;
-	text-transform: uppercase;
-}
-.navbar-brand h2{
-    font-family: 'Courier New', monospace;
-    display: inline;
-    font-size: 2 rem;
-    font-weight:900;
-}
-.top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover{
-	background: #d65106;
-	color: #ffffff;
-}
-.top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
-	background: #d65106;
-	color: #ffffff;
-	border-radius: 4px;
-}
-
-.navbar-expand-lg .navbar-nav .dropdown-menu{
-	border: none;
-	border-radius: 0px;
-	padding: 10px;
-	box-shadow: 2px 5px 6px rgba(0,0,0,0.5);
-}
-.navbar-expand-lg .navbar-nav .dropdown-menu a{
-	padding: 10px 10px;
-	text-transform: uppercase;
-}
-
-.navbar-expand-lg .navbar-nav .dropdown-menu a.dropdown-item:hover{
-	background: #d65106;
-	color: #ffffff;
-}
-.navbar-light .navbar-toggler:hover{
-	background: #d65106;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-	.navbar-light .navbar-brand{
-		margin-left: 15px;
-	}
-	.navbar-light .navbar-toggler{
-		margin-right: 15px;
-		border-radius: 0px;
-	}
-	.navbar-expand-lg .navbar-nav .dropdown-menu{
-		box-shadow: none;
-	}
-}
-
-/* mobile or only mobile */
-@media (max-width: 767px) {
-	.navbar-light .navbar-brand{
-		margin-left: 15px;
-	}
-	.navbar-light .navbar-toggler{
-		margin-right: 15px;
-		border-radius: 0px;
-	}
-	.navbar-expand-lg .navbar-nav .dropdown-menu{
-		box-shadow: none;
-	}
-	.top-navbar .navbar{
-		border-radius: 0px 0px 50px 50px;
-	}
 	
-}
-
-
-	</style>	
 </head>
-
 <body>
-	<!-- Start header -->
-	<header class="top-navbar">
+    <!-- ? Preloader Start -
+    <div id="preloader-active">
+        <div class="preloader d-flex align-items-center justify-content-center">
+            <div class="preloader-inner position-relative">
+                <div class="preloader-circle"></div>
+                <div class="preloader-img pere-text">
+                    <img src="./assets/img/logo/loder.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    -- Preloader Start -->
+   <!-- Start header -->
+	
+
+<header class="top-navbar">
+
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
-			<div class="container">
-				<a class="navbar-brand" href="index.html">
-					<img src="images/logo.png" alt="" style="height:3rem"/><h2>treet fire</h2>
+			<div class="container-fluid">
+				<a class="navbar-brand" href="index.php">
+					<img src="./assets/img/logo.png" alt="" style="height:3.5rem"/><span class="st" style="position: relative; top:15px; padding-left:10px">STEPCONE</span>
 				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-rs-food" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 				  <span class="navbar-toggler-icon"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="navbars-rs-food">
-					<ul class="navbar-nav ml-auto">
-						<li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
-						<li class="nav-item"><a class="nav-link" href="menu.html">Menu</a></li>
-						<li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+					<ul class="navbar-nav ml-auto angel-bg">
+						<li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="./about.php">About</a></li>
+
 						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Blogs</a>
+							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Events</a>
 							<div class="dropdown-menu" aria-labelledby="dropdown-a">
-								<a class="dropdown-item" href="reservation.html">Reservation</a>
-								<a class="dropdown-item" href="stuff.html">Stuff</a>
-								<a class="dropdown-item" href="gallery.html">Gallery</a>
+								<a class="dropdown-item" href="./flagship.php">Flagship Events</a>
+								<a class="dropdown-item" href="./tech.php">Technical Events</a>
+								<a class="dropdown-item" href="./spot.php">Spot Events</a>
 							</div>
 						</li>
-						<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+						<li class="nav-item"><a class="nav-link" href="./Registration.php">Registration</a></li>
+                        <li class="nav-item"><a class="nav-link" href="./accommodation.php">Accommodation</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="./login.php">Login</a></li> -->
+                        <?php
+                        if(!isset($_SESSION['mail'])) {
+                            echo '
+                            <li class="nav-item"><a class="nav-link" href="./login.php">Login</a></li>
+                            ';
+                        }
+                        else {
+                            echo '
+                            <li class="nav-item"><a class="nav-link" href="./includes/logoutAPI.php">Logout</a></li>
+                            ';
+                        }
+                        ?>
+                        <li class="nav-item"><a class="nav-link" href="./contact.php">Contact</a></li>
 					</ul>
 				</div>
+                <a class="navbar-brand gmr" href="#">
+					<img src="./assets/img/gmr.png" class="logo-gmr" alt="" style="height:3.5rem;margin-left:70px;"/>
+				</a>
 			</div>
 		</nav>
 	</header>
-	<!-- End header -->
-	<section style="background-color: #000;height:100vh;">
 
-	</section>
-	<section style="background-color: #234;height:100vh;">
 
-	</section>
-	<section style="background-color: #567;height:100vh;">
+    <!-- Scroll Up -->
+    <div id="back-top" >
+        <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
+    </div>
 
-	</section>
+    <!-- JS here -->
 
-	<!-- ALL JS FILES -->
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<script src="js/popper.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+   <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+   <!-- Jquery, Popper, Bootstrap -->
+   <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
+   <script src="./assets/js/popper.min.js"></script>
+   <script src="./assets/js/bootstrap.min.js"></script>
+   <!-- Jquery Mobile Menu -->
+   <script src="./assets/js/jquery.slicknav.min.js"></script>
+   <!-- Jquery Slick , Owl-Carousel Plugins -->
+   <script src="./assets/js/owl.carousel.min.js"></script>
+   <script src="./assets/js/slick.min.js"></script>
+   <!-- One Page, Animated-HeadLin -->
+   <script src="./assets/js/wow.min.js"></script>
+   <script src="./assets/js/animated.headline.js"></script>
+   <script src="./assets/js/jquery.magnific-popup.js"></script>
+
+   <!-- Date Picker -->
+   <script src="./assets/js/gijgo.min.js"></script>
+   <!-- counter , waypoint -->
+   <script src="./assets/js/jquery.counterup.min.js"></script>
+   <script src="./assets/js/waypoints.min.js"></script>
+   <script src="./assets/js/jquery.countdown.min.js"></script>
+   <!-- contact js -->
+   <script src="./assets/js/contact.js"></script>
+   <script src="./assets/js/jquery.form.js"></script>
+   <script src="./assets/js/jquery.validate.min.js"></script>
+   <script src="./assets/js/mail-script.js"></script>
+   <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
    
+   <!-- Jquery Plugins, main Jquery -->	
+   <script src="./assets/js/plugins.js"></script>
+   <script src="./assets/js/main.js"></script>
+   
+   <!-- ALL JS FILES-->
+   <script src="js/jquery-3.2.1.min.js"></script>
+   <!-- <script src="js/popper.min.js"></script>
+   <script src="js/bootstrap.min.js"></script> -->
     
-    </body>
+    <script>
+        $(document).ready(function () { 
+            $(document).click(function () {
+                $('.navbar-collapse').collapse('hide');
+            });
+        });
+    </script>
+    <script>
+        $(window).scroll(function(){
+            if($(window).width() > 995)
+            {
+                $('.navbar-nav').toggleClass('angle-bg',$(this).scrollTop()>50);
+            }
+        })
+       
+    </script>
+
+   	
+    
+
+
+<script src="./assets/js/d_insp.js"></script>
+
+</body>
 </html>
