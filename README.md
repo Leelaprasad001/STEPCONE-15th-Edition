@@ -1,6 +1,8 @@
-# STEPCONE 15th Edition 🏦🏦🎓🎉🥳    - [Click Here](https://stepcone2023.000webhostapp.com/)
+# STEPCONE 15th Edition 🏦🏦🎓🎉🥳   
 
 Welcome to STEPCONE - the National Level Student Technical Paper & Project Contest & Exhibition for 2023! 🌟 This event provides a platform for students to showcase their technical prowess and creativity. 
+
+[Click Here](https://stepcone2023.000webhostapp.com/)
 
 ## About STEPCONE 2023
 After experiencing tremendous success as one of India's premier technical and cultural fests, GMRIT proudly announces the 15th edition of STEPCONE in 2023. This iconic technical fest has consistently been a highly anticipated event for engineering students across all disciplines.
