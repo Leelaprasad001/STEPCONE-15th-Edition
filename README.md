@@ -24,6 +24,6 @@ We anticipate an unwavering spirit from students who will come together to test 
 https://github.com/Leelaprasad001/STEPCONE-15th-Edition/assets/76583080/c87b13ca-281e-406e-b0d5-69c883d6bc7b
 
 
-- [Demo Link](https://clipchamp.com/watch/O25TBDUR6lA)
+- [Live Link](https://stepcone2023.000webhostapp.com/)
 
 Join us at STEPCONE 2023 for an unforgettable experience! 🎓🚀🌟🎉
