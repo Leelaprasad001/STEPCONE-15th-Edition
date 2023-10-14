@@ -1,4 +1,4 @@
-# STEPCONE 15th Edition 🏦🏦🎓🎉🥳
+# STEPCONE 15th Edition 🏦🏦🎓🎉🥳    - [Click Here](https://stepcone2023.000webhostapp.com/)
 
 Welcome to STEPCONE - the National Level Student Technical Paper & Project Contest & Exhibition for 2023! 🌟 This event provides a platform for students to showcase their technical prowess and creativity. 
 
@@ -24,6 +24,6 @@ We anticipate an unwavering spirit from students who will come together to test 
 https://github.com/Leelaprasad001/STEPCONE-15th-Edition/assets/76583080/c87b13ca-281e-406e-b0d5-69c883d6bc7b
 
 
-- [Live Link](https://stepcone2023.000webhostapp.com/)
+
 
 Join us at STEPCONE 2023 for an unforgettable experience! 🎓🚀🌟🎉
